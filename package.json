@@ -1,0 +1,14 @@
+{
+  "name": "youtubedownloader",
+  "version": "0.0.1",
+  "description": "A basic youtube video/audio downloader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "C4Navar",
+  "license": "ISC",
+  "dependencies": {
+    "ytdl-core": "^0.20.4"
+  }
+}
